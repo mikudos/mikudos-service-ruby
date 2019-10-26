@@ -1,5 +1,5 @@
-# ruby-grpc-test
+# mikudos-service-ruby
 
-ruby-grpc-test
+mikudos-service-ruby
 
 -   Ruby `>= 2.4`
