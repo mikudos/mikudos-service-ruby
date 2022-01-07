@@ -46,7 +46,7 @@ GEM
       dry-logic (~> 1.0, >= 1.0.2)
     ds9 (1.4.1)
       mini_portile2 (>= 2.2.0)
-    google-protobuf (3.9.2-universal-darwin)
+    google-protobuf (3.19.2)
     googleapis-common-protos-types (1.0.4)
       google-protobuf (~> 3.0)
     grpc_kit (0.3.8)
